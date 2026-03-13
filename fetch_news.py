@@ -10,7 +10,7 @@ import requests
 from datetime import datetime
 from pathlib import Path
 
-NEWS_API_KEY = "73e6f1d75707431dbb7197de2ff35fd0"
+NEWS_API_KEY = "api_token"
 BASE_URL     = "https://newsapi.org/v2/top-headlines"
 
 CATEGORIES = ["technology", "sports", "business", "science", "health", "entertainment"]
