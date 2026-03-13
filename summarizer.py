@@ -11,7 +11,7 @@ import csv
 from pathlib import Path
 from groq import Groq
 
-CLIENT = Groq(api_key="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")
+CLIENT = Groq(api_key="api_token")
 
 
 def summarize_article(title, content, category):
