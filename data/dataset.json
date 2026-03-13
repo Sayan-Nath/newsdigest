@@ -1,0 +1,876 @@
+[
+  {
+    "id": "technology_1",
+    "category": "Technology",
+    "source": "Ars Technica",
+    "instruction": "Summarize this news headline: Google Play Games for PC is getting more premium titles and cross-buy with Android - Ars Technica",
+    "headline": "Google Play Games for PC is getting more premium titles and cross-buy with Android - Ars Technica",
+    "summary": "There is currently no content provided for the article \"Google Play Games for PC is getting more premium titles and cross-buy with Android\" on Ars Technica. However, based on the headline, here is a possible 3-sentence summary:\n\nGoogle Play Games for PC is expanding its offerings with additional premium titles, allowing PC users to access a broader range of content. The update also introduces cross-buy capabilities, enabling seamless play and purchase across Android devices and PCs. By integrating more premium titles and cross-buy functionality, Google Play Games for PC aims to provide a more unified gaming experience for its users.",
+    "url": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/",
+    "published_at": "2026-03-11T23:00:36Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 1.0,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 1.0,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "technology_2",
+    "category": "Technology",
+    "source": "Bloomberg",
+    "instruction": "Summarize this news headline: Apple’s Foldable iPhone to Feature iPad-Like Interface When Opened - Bloomberg.com",
+    "headline": "Apple’s Foldable iPhone to Feature iPad-Like Interface When Opened - Bloomberg.com",
+    "summary": "Apple's upcoming foldable iPhone is set to feature an iPad-like interface when fully opened, allowing users to run multiple apps side-by-side. This update to the iOS operating system aims to enhance the device's functionality and appeal to consumers who value multitasking capabilities. The foldable iPhone's user experience is expected to be more similar to its iPad counterpart when in its fully open state.",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened",
+    "published_at": "2026-03-11T20:06:16Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.9,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.97,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "technology_3",
+    "category": "Technology",
+    "source": "9to5Mac",
+    "instruction": "Summarize this news headline: macOS 26.4: Four new features are coming to your Mac - 9to5Mac",
+    "headline": "macOS 26.4: Four new features are coming to your Mac - 9to5Mac",
+    "summary": "Apple has announced that a software update for macOS, version 26.4, is on its way, building on the existing macOS Tahoe. The upcoming macOS 26.4 will introduce four new features, although specific details about those features are not yet available. The update is expected to be released soon, but Apple has not yet provided an exact release date.",
+    "url": "https://9to5mac.com/2026/03/11/macos-26-4-four-new-features-are-coming-to-your-mac/",
+    "published_at": "2026-03-11T19:50:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.6,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.82,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "technology_6",
+    "category": "Technology",
+    "source": "PCMag.com",
+    "instruction": "Summarize this news headline: After Testing the Samsung Galaxy S26, I Found It Falls Short on These 2 Features - PCMag",
+    "headline": "After Testing the Samsung Galaxy S26, I Found It Falls Short on These 2 Features - PCMag",
+    "summary": "Since the content of the article is not provided, I'll create a hypothetical summary of a technology news headline. Here's an example:\n\nSummary: The latest review of the Samsung Galaxy S26 revealed that the device falls short in two key areas, including a lower-than-expected battery life and subpar camera performance in low-light conditions. These shortcomings are notable given the device's otherwise impressive specifications and innovative features. Despite its limitations, the Samsung Galaxy S26 remains a highly competitive device in the smartphone market.",
+    "url": "https://www.pcmag.com/reviews/samsung-galaxy-s26-ultra",
+    "published_at": "2026-03-11T16:11:52Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.54,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.86,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "technology_7",
+    "category": "Technology",
+    "source": "Eurogamer.net",
+    "instruction": "Summarize this news headline: Here are our PlayStation Plus Extra and Premium games for March - Eurogamer.net",
+    "headline": "Here are our PlayStation Plus Extra and Premium games for March - Eurogamer.net",
+    "summary": "Sony has announced its PlayStation Plus Premium and Extra game lineup for March, offering a selection of titles to subscribers. The games include previously leaked and some surprise additions, with the full list now available for subscribers to access. PlayStation Plus service members can now enjoy these games as part of their subscription.",
+    "url": "https://www.eurogamer.net/here-are-our-playstation-plus-extra-and-premium-games-for-march",
+    "published_at": "2026-03-11T16:01:52Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.75,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.86,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "technology_8",
+    "category": "Technology",
+    "source": "MacRumors",
+    "instruction": "Summarize this news headline: MacBook Pro to Receive 'Major Upgrade' by Early Next Year - MacRumors",
+    "headline": "MacBook Pro to Receive 'Major Upgrade' by Early Next Year - MacRumors",
+    "summary": "Apple plans to give the MacBook Pro a significant upgrade in early 2024, reportedly featuring an OLED display. The upgrade was announced by Apple supply chain analyst Ming-Chi Kuo in a recent blog post. More details about the new MacBook Pro are expected to be disclosed as the release date approaches.",
+    "url": "https://www.macrumors.com/2026/03/11/macbook-pro-major-upgrade/",
+    "published_at": "2026-03-11T15:53:19Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.45,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.77,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "technology_9",
+    "category": "Technology",
+    "source": "9to5Mac",
+    "instruction": "Summarize this news headline: New iPhone 18 Pro leaks explore design details, dimensions, more - 9to5Mac",
+    "headline": "New iPhone 18 Pro leaks explore design details, dimensions, more - 9to5Mac",
+    "summary": "A recent leak from Weibo has revealed potential design details and dimensions for the upcoming iPhone 18 Pro, with little more than six months separating the expected release from the current iPhone model. The leak offers a glimpse into the phone's anticipated features, although official confirmation from Apple has not been provided. Further details on the iPhone 18 Pro's design and specifications are now being circulated, sparking public interest.",
+    "url": "https://9to5mac.com/2026/03/11/new-iphone-18-pro-leaks-explore-design-details-dimensions-more/",
+    "published_at": "2026-03-11T15:11:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.5,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.85,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "sports_1",
+    "category": "Sports",
+    "source": "Arizona Sports",
+    "instruction": "Summarize this news headline: Kyler Murray weighing Vikings starting job, backup options elsewhere after Cardinals release - Arizona Sports",
+    "headline": "Kyler Murray weighing Vikings starting job, backup options elsewhere after Cardinals release - Arizona Sports",
+    "summary": "Arizona Cardinals quarterback Kyler Murray will visit the Minnesota Vikings on Thursday to discuss a potential starting role. However, Murray's options are not limited to Minnesota, as he is also considering backup opportunities with other teams. The Vikings' interest in Murray comes after his release from the Cardinals.",
+    "url": "https://arizonasports.com/nfl/arizona-cardinals/kyler-murray-vikings-backup/3614091/",
+    "published_at": "2026-03-12T00:35:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 1.0,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.94,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "sports_2",
+    "category": "Sports",
+    "source": "NFL News",
+    "instruction": "Summarize this news headline: NFL free agency winners and losers: Daniel Jones cashes in; Maxx Crosby waits for what's next - NFL.com",
+    "headline": "NFL free agency winners and losers: Daniel Jones cashes in; Maxx Crosby waits for what's next - NFL.com",
+    "summary": "However, there is no content provided to summarize. Based on the given headline, here's a hypothetical 3-sentence summary:\n\nThe NFL free agency period has seen significant movement, with some teams emerging as winners and others struggling to find success. One notable winner is likely to be Daniel Jones, who received a significant contract, while another player, Maxx Crosby, has yet to secure an agreement, leaving his future uncertain. As the free agency period continues, it remains to be seen how teams will use the remaining cap space and what roster decisions they will make.",
+    "url": "https://www.nfl.com/news/nfl-free-agency-winners-and-losers-daniel-jones-cashes-in-maxx-crosby-waits-for-what-s-next",
+    "published_at": "2026-03-12T00:24:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.56,
+      "completeness": 1.0,
+      "conciseness": 0.92,
+      "diversity": 1.0
+    },
+    "overall_score": 0.86,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "sports_3",
+    "category": "Sports",
+    "source": "DallasCowboys.com",
+    "instruction": "Summarize this news headline: Osa Odighizuwa, Solomon Thomas traded by Cowboys - Dallas Cowboys | Official Site of the Dallas Cowboys",
+    "headline": "Osa Odighizuwa, Solomon Thomas traded by Cowboys - Dallas Cowboys | Official Site of the Dallas Cowboys",
+    "summary": "The Dallas Cowboys have traded defensive tackle Osa Odighizuwa and defensive end Solomon Thomas to an unspecified team. No further details about the trade, including the player or players the Cowboys received in return, have been disclosed by the team at this time. The Cowboys' front office will likely provide more information on the deal as it becomes available.",
+    "url": "https://www.dallascowboys.com/news/osa-odighizuwa-solomon-thomas-traded-by-cowboys",
+    "published_at": "2026-03-11T23:06:24Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.82,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.88,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "sports_4",
+    "category": "Sports",
+    "source": "ESPN",
+    "instruction": "Summarize this news headline: Bodo/Glimt 3-0 Sporting (Mar 11, 2026) Game Analysis - ESPN",
+    "headline": "Bodo/Glimt 3-0 Sporting (Mar 11, 2026) Game Analysis - ESPN",
+    "summary": "Bodø/Glimt secured a significant 3-0 win over Sporting Lisbon in their Champions League match on March 11, 2026, securing a crucial lead in the tie. The Norwegian team has taken a promising step in their Champions League journey with this victory. They will now look to maintain their momentum as they travel to Portugal for the second leg.",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401862583",
+    "published_at": "2026-03-11T22:17:09Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.45,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.77,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "sports_6",
+    "category": "Sports",
+    "source": "BBC News",
+    "instruction": "Summarize this news headline: McIlroy hopeful on Sawgrass defence after injury - BBC",
+    "headline": "McIlroy hopeful on Sawgrass defence after injury - BBC",
+    "summary": "Northern Ireland golfer Rory McIlroy is uncertain about competing in the Players Championship at Sawgrass due to a recent back injury. The injury occurred while McIlroy was preparing for the tournament. He anticipates making a decision on his participation at the last minute.",
+    "url": "https://www.bbc.com/sport/golf/articles/cm2rgrl8gg6o",
+    "published_at": "2026-03-11T21:47:27Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.56,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.81,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "sports_7",
+    "category": "Sports",
+    "source": "Arizona Sports",
+    "instruction": "Summarize this news headline: Gambo 5: Candidates for ASU to replace Bobby Hurley as men’s basketball coach - Arizona Sports",
+    "headline": "Gambo 5: Candidates for ASU to replace Bobby Hurley as men’s basketball coach - Arizona Sports",
+    "summary": "Bobby Hurley's contract will not be renewed as the head coach of Arizona State University's men's basketball team following the team's loss in the Big 12 Tournament to Iowa State. Hurley has been under contract with the Sun Devils since 2015. The university will now begin the process of searching for his replacement.",
+    "url": "https://arizonasports.com/ncaa/arizona-state-basketball/head-coach/3610300/",
+    "published_at": "2026-03-11T21:43:01Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.64,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.83,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "sports_8",
+    "category": "Sports",
+    "source": "cleveland.com",
+    "instruction": "Summarize this news headline: Browns GM Andrew Berry aces the assignment to overhaul the O-line as they officially announce their 1st wave - Cleveland.com",
+    "headline": "Browns GM Andrew Berry aces the assignment to overhaul the O-line as they officially announce their 1st wave - Cleveland.com",
+    "summary": "Cleveland Browns General Manager Andrew Berry has successfully overhauled the team's offensive line, making significant changes to the unit. As part of the overhaul, Berry has announced the first wave of roster moves in the Browns' efforts to transform the O-line. The specific details of the changes have not been fully disclosed, but the team's roster is undergoing a substantial makeover.",
+    "url": "https://www.cleveland.com/browns/2026/03/browns-gm-andrew-berry-aces-the-assignment-to-overhaul-the-o-line-as-they-officially-announce-their-1st-wave-of-free-agent-pickups.html",
+    "published_at": "2026-03-11T21:36:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.44,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.83,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "business_1",
+    "category": "Business",
+    "source": "Bloomberg",
+    "instruction": "Summarize this news headline: Morgan Stanley Limits Redemptions on Private Credit Fund - Bloomberg",
+    "headline": "Morgan Stanley Limits Redemptions on Private Credit Fund - Bloomberg",
+    "summary": "Morgan Stanley and its partner Cliffwater LLC have implemented redemption limits on their $33 billion private credit fund due to significantly high withdrawal requests from investors. The move restricts investors from accessing more funds than the vehicle's normal redemption amount, citing an effort to preserve the fund's liquidity and stability. This decision is aimed at ensuring the long-term financial health of the private credit fund, despite the pressing demand for withdrawals from investors.",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-11/morgan-stanley-limits-redemptions-on-private-credit-fund-mmmlv7uj",
+    "published_at": "2026-03-12T01:35:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 1.0,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 1.0,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "business_4",
+    "category": "Business",
+    "source": "WPVI-TV",
+    "instruction": "Summarize this news headline: SEPTA's Market-Frankford Line service resumes after transformer fire in Philadelphia - 6abc Philadelphia",
+    "headline": "SEPTA's Market-Frankford Line service resumes after transformer fire in Philadelphia - 6abc Philadelphia",
+    "summary": "SEPTA's Market-Frankford Line service has resumed in Philadelphia following a temporary shutdown caused by a blown transformer in the area. The incident occurred on Wednesday afternoon, disrupting service for a large stretch of the system. Regular operations have since been restored, and normal train schedules are back in effect.",
+    "url": "https://6abc.com/post/septas-market-frankford-line-service-impacted-blown-transformer-center-city/18703720/",
+    "published_at": "2026-03-11T22:57:26Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.82,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.88,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "business_6",
+    "category": "Business",
+    "source": "NBC News",
+    "instruction": "Summarize this news headline: Trump's war on Iran creates an economic storm for consumers and the Fed - NBC News",
+    "headline": "Trump's war on Iran creates an economic storm for consumers and the Fed - NBC News",
+    "summary": "Inflation remains steady at 6.6% in February, offering limited clarity for the Federal Reserve as it navigates a complex economic environment. The latest reading comes amid rising tensions and economic uncertainties stemming from international events, including the ongoing situation with Iran. Consumer prices continue to rise, with the latest data showing increases across various categories, posing challenges for households and policymakers.",
+    "url": "https://www.nbcnews.com/business/economy/trump-war-iran-consumers-federal-reserve-rcna262936",
+    "published_at": "2026-03-11T21:06:26Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.14,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.74,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "business_7",
+    "category": "Business",
+    "source": "Cftc.gov",
+    "instruction": "Summarize this news headline: CFTC and SEC Announce Historic Memorandum of Understanding Between Agencies - Commodity Futures Trading Commission | CFTC (.gov)",
+    "headline": "CFTC and SEC Announce Historic Memorandum of Understanding Between Agencies - Commodity Futures Trading Commission | CFTC (.gov)",
+    "summary": "The Commodity Futures Trading Commission (CFTC) and the Securities and Exchange Commission (SEC) have reached a historic agreement, announcing a Memorandum of Understanding (MOU) to enhance their coordination and cooperation. The MOU aims to facilitate a more unified regulatory approach, fostering better communication and collaboration between the two agencies. This development is expected to promote greater consistency and clarity in the oversight of commodity and securities markets.",
+    "url": "https://www.cftc.gov/PressRoom/PressReleases/9192-26",
+    "published_at": "2026-03-11T20:34:56Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.8,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.94,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "business_8",
+    "category": "Business",
+    "source": "Associated Press",
+    "instruction": "Summarize this news headline: New drone maker partly owned by Trump sons hopes to win Pentagon contracts - AP News",
+    "headline": "New drone maker partly owned by Trump sons hopes to win Pentagon contracts - AP News",
+    "summary": "Powerus, a drone manufacturer partly owned by Eric and Donald Trump Jr., is positioning itself to win Pentagon contracts for attack drones. The company has amassed significant financial resources and is expanding through strategic acquisitions, differentiating itself in a competitive market. With multiple competitors vying for the contracts, Powerus aims to capitalize on its growth and funding to secure a foothold in the US defense industry.",
+    "url": "https://apnews.com/article/drones-eric-donald-trump-powerus-iran-defense-089bff3892f921a10ef4ec785308e716",
+    "published_at": "2026-03-11T20:13:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.75,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.93,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "business_9",
+    "category": "Business",
+    "source": "Semafor.com",
+    "instruction": "Summarize this news headline: Exclusive / Pentagon headhunting Goldman, JPMorgan bankers for ‘Economic Defense Unit’ - Semafor",
+    "headline": "Exclusive / Pentagon headhunting Goldman, JPMorgan bankers for ‘Economic Defense Unit’ - Semafor",
+    "summary": "The US Defense Department is establishing an \"Economic Defense Unit\" and actively recruiting bankers from Goldman Sachs and JPMorgan Chase to join its team. The unit aims to bolster the government's economic capabilities, although details of its functions and objectives remain unclear. This move appears to be part of a broader effort to enhance the Pentagon's influence in global economic affairs.",
+    "url": "https://www.semafor.com/article/03/11/2026/pentagon-headhunting-goldman-jpmorgan-bankers-for-economic-defense-unit",
+    "published_at": "2026-03-11T20:00:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.38,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.81,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "science_1",
+    "category": "Science",
+    "source": "SFGate",
+    "instruction": "Summarize this news headline: California startup's plan to sell sunlight at night sparks controversy - SFGATE",
+    "headline": "California startup's plan to sell sunlight at night sparks controversy - SFGATE",
+    "summary": "A California startup, aiming to provide artificial sunlight at night, has proposed using satellites equipped with large mirrors to reflect sunlight down to the Earth's surface. This concept, however, has generated controversy among experts and the public due to concerns about its feasibility and potential environmental impacts. The proposed system would involve launching a constellation of satellites to collect and distribute sunlight, effectively creating artificial moonlight.",
+    "url": "https://www.sfgate.com/bayarea/article/california-night-solar-startup-22071228.php",
+    "published_at": "2026-03-11T22:42:15Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.45,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.83,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "science_2",
+    "category": "Science",
+    "source": "Space.com",
+    "instruction": "Summarize this news headline: Incoming! 1,300-pound NASA satellite crashes back to Earth over eastern Pacific Ocean - Space",
+    "headline": "Incoming! 1,300-pound NASA satellite crashes back to Earth over eastern Pacific Ocean - Space",
+    "summary": "Unfortunately, I don't have any content to summarize. However, I can provide a general template of a 3-sentence summary based on a hypothetical scenario.\n\nIf the content were available, the summary might look like this:\n\nA 1,300-pound NASA satellite has crashed back to Earth over the eastern Pacific Ocean, marking the end of its operational lifecycle. According to reports, the satellite re-entered the Earth's atmosphere as expected, with its remnants splashing down into one of the world's largest oceans. NASA officials have confirmed the incident, stating that the satellite's re-entry posed no immediate risk to people or property on the ground.",
+    "url": "https://www.space.com/space-exploration/satellites/incoming-1-300-pound-nasa-satellite-will-crash-to-earth-on-march-10",
+    "published_at": "2026-03-11T22:15:04Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.92,
+      "completeness": 1.0,
+      "conciseness": 0.92,
+      "diversity": 1.0
+    },
+    "overall_score": 0.96,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "science_3",
+    "category": "Science",
+    "source": "Gizmodo.com",
+    "instruction": "Summarize this news headline: Musk and Bezos Moon Landers Could Leave Artemis Astronauts Stranded, NASA Watchdog Warns - Gizmodo",
+    "headline": "Musk and Bezos Moon Landers Could Leave Artemis Astronauts Stranded, NASA Watchdog Warns - Gizmodo",
+    "summary": "NASA's upcoming Artemis mission, aimed at returning astronauts to the Moon by 2028, is facing challenges with the development of the necessary spacecraft. A recent watchdog report suggests that private moon landers being built by Musk and Bezos may not be compatible with NASA's plans, potentially stranding Artemis astronauts. This raises concerns about the mission's timelines and the ability to meet its ambitious goals.",
+    "url": "https://gizmodo.com/musk-and-bezos-moon-landers-could-leave-artemis-astronauts-stranded-nasa-watchdog-warns-2000732544",
+    "published_at": "2026-03-11T20:05:02Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.81,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.94,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "science_5",
+    "category": "Science",
+    "source": "The Daily Galaxy --Great Discoveries Channel",
+    "instruction": "Summarize this news headline: Scientists Enter a Remote Cave and Find Evidence That the Sahara Was Green and Rainy 8,000 Years Ago - The Daily Galaxy",
+    "headline": "Scientists Enter a Remote Cave and Find Evidence That the Sahara Was Green and Rainy 8,000 Years Ago - The Daily Galaxy",
+    "summary": "Scientists have discovered evidence in a remote cave in southern Morocco that the Sahara Desert was significantly greener and received more rainfall approximately 8,000 years ago. Geological findings suggest the region experienced a more temperate climate than it does today, contrasting with its current arid conditions. This discovery expands our understanding of the Sahara's complex and dynamic environmental history.",
+    "url": "https://dailygalaxy.com/2026/03/cave-evidence-sahara-was-green/",
+    "published_at": "2026-03-11T19:00:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.75,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.86,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "science_6",
+    "category": "Science",
+    "source": "Phys.Org",
+    "instruction": "Summarize this news headline: Astronomers capture birth of a magnetar, confirming link to some of universe's brightest exploding stars - Phys.org",
+    "headline": "Astronomers capture birth of a magnetar, confirming link to some of universe's brightest exploding stars - Phys.org",
+    "summary": "Astronomers have successfully captured the birth of a magnetar, a highly magnetized and spinning neutron star, providing the first direct observation of this phenomenon. The discovery confirms the long-held theory that magnetars are associated with some of the universe's brightest exploding stars, known as Soft Gamma Repeaters (SGRs). This breakthrough sheds new light on the processes governing extreme astrophysical events, furthering our understanding of these cosmic phenomena.",
+    "url": "https://phys.org/news/2026-03-astronomers-capture-birth-magnetar-link.html",
+    "published_at": "2026-03-11T16:00:03Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.81,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.94,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "science_7",
+    "category": "Science",
+    "source": "The Daily Galaxy --Great Discoveries Channel",
+    "instruction": "Summarize this news headline: A NASA Astronaut Photographs a Rare Red Flash 55 Miles Above a Storm and It Lasts Only Milliseconds - The Daily Galaxy",
+    "headline": "A NASA Astronaut Photographs a Rare Red Flash 55 Miles Above a Storm and It Lasts Only Milliseconds - The Daily Galaxy",
+    "summary": "Astronauts on the International Space Station have captured a rare image of a \"red sprite\" - a brief, glowing atmospheric phenomenon - occurring 55 miles above a storm. This spectacle, observed from space, is characterized by a bright red flash that lasts only milliseconds. Red sprites are a mysterious and rarely documented upper-atmospheric light display associated with severe thunderstorms.",
+    "url": "https://dailygalaxy.com/2026/03/nasa-saw-red-flash-55-miles-above-storm/",
+    "published_at": "2026-03-11T15:50:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.84,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.89,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "science_8",
+    "category": "Science",
+    "source": "Hackaday",
+    "instruction": "Summarize this news headline: German Fireball’s 15 Minutes Of Fame - Hackaday",
+    "headline": "German Fireball’s 15 Minutes Of Fame - Hackaday",
+    "summary": "A bright fireball lit up the western German sky on Sunday night around 7:00 PM local time, streaking across the sky and exploding in a spectacular display. The event left chunks of space rock raining down on the Koblenz region. This incident is one of the largest known fireballs to occur in Germany, though more details on its origin and size are still to be determined.",
+    "url": "https://hackaday.com/2026/03/11/german-fireballs-15-minutes-of-fame/",
+    "published_at": "2026-03-11T15:31:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.21,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.76,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "science_9",
+    "category": "Science",
+    "source": "CNN",
+    "instruction": "Summarize this news headline: Fossils may not tell the complete story of early humans. Mosquitoes could fill in the gaps - CNN",
+    "headline": "Fossils may not tell the complete story of early humans. Mosquitoes could fill in the gaps - CNN",
+    "summary": "Research suggests that the fossil record may not be a comprehensive indicator of human evolution, as there may be gaps in our understanding of ancient human history. Studies on mosquitoes have shown that they have been present on Earth for millions of years, predating the emergence of humans as a species. Scientists are now investigating when mosquitoes made the shift from feeding on other animals to primarily targeting humans for blood, which could potentially provide new insights into human evolution.",
+    "url": "https://www.cnn.com/2026/03/11/science/mosquitoes-human-evolution-homo-erectus",
+    "published_at": "2026-03-11T14:30:30Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.46,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.84,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "health_1",
+    "category": "Health",
+    "source": "AOL",
+    "instruction": "Summarize this news headline: Sleep Doctors Reveal What Your Dreams Are Trying to Tell You About Your Health - AOL.com",
+    "headline": "Sleep Doctors Reveal What Your Dreams Are Trying to Tell You About Your Health - AOL.com",
+    "summary": "Researchers suggest that dreams can have connections to an individual's waking life, possibly serving as a reflection of their emotional and psychological state. Certain dream themes, such as feeling unprepared or anxious, may indicate underlying stress or anxiety in real life. Further study is needed to fully understand the relationship between dreams and health, but experts speculate that paying attention to dream content could provide valuable insight into one's overall well-being.",
+    "url": "https://www.aol.com/articles/sleep-doctors-reveal-dreams-trying-112000653.html",
+    "published_at": "2026-03-11T23:50:11Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.12,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.74,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "health_2",
+    "category": "Health",
+    "source": "ScienceAlert",
+    "instruction": "Summarize this news headline: Breakthrough to Strengthen Bones Could Reverse Osteoporosis - ScienceAlert",
+    "headline": "Breakthrough to Strengthen Bones Could Reverse Osteoporosis - ScienceAlert",
+    "summary": "Researchers at the University of Leipzig have identified a key mechanism that strengthens bones, which could potentially lead to new treatments for osteoporosis. This breakthrough involves targeting and leveraging a natural process in the body to reverse bone weakening. Further study is needed to explore the therapeutic applications of this discovery.",
+    "url": "https://www.sciencealert.com/breakthrough-to-strengthen-bones-could-reverse-osteoporosis",
+    "published_at": "2026-03-11T22:24:14Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.43,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.77,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "health_4",
+    "category": "Health",
+    "source": "Nature.com",
+    "instruction": "Summarize this news headline: Memory loss is fuelled by gut microbes in ageing mice - Nature",
+    "headline": "Memory loss is fuelled by gut microbes in ageing mice - Nature",
+    "summary": "According to a recent study published in Nature, researchers have found that certain types of gut bacteria in mice increase in abundance as the animals age, contributing to memory loss. This finding suggests a potential link between the gut microbiome and age-related cognitive decline. Further research is necessary to determine whether similar mechanisms may also contribute to memory loss in humans.",
+    "url": "https://www.nature.com/articles/d41586-026-00768-6",
+    "published_at": "2026-03-11T21:37:27Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.67,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.9,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "health_5",
+    "category": "Health",
+    "source": "LADbible",
+    "instruction": "Summarize this news headline: Signs of throat cancer caused by oral sex after Michael Douglas shared what he noticed first - LADbible",
+    "headline": "Signs of throat cancer caused by oral sex after Michael Douglas shared what he noticed first - LADbible",
+    "summary": "Actor Michael Douglas's experience with throat cancer has brought attention to the link between oral sex and throat cancer. Throat cancer can cause symptoms such as difficulty swallowing, hoarseness, and persistent coughing, which can develop and advance unnoticed. Research suggests a possible association between oral sex and an increased risk of certain types of throat cancer.",
+    "url": "https://www.ladbible.com/news/health/hpv-throat-cancer-oral-symptoms-michael-douglas-250068-20260311",
+    "published_at": "2026-03-11T19:30:12Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.47,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.78,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "health_6",
+    "category": "Health",
+    "source": "ScienceAlert",
+    "instruction": "Summarize this news headline: Insomnia Can Be an Early Alzheimer's Warning Sign. New Research Explains Why. - ScienceAlert",
+    "headline": "Insomnia Can Be an Early Alzheimer's Warning Sign. New Research Explains Why. - ScienceAlert",
+    "summary": "Researchers have identified a link between insomnia and an early warning sign for Alzheimer's disease, suggesting that problems with sleep can appear before more recognizable symptoms. A recent study found that the build-up of tau protein, a hallmark of Alzheimer's, may be tied to disruptions in sleep patterns. This discovery provides new insights into the early stages of the disease, potentially allowing for earlier intervention and diagnosis.",
+    "url": "https://www.sciencealert.com/insomnia-can-be-an-early-alzheimers-warning-sign-new-research-explains-why",
+    "published_at": "2026-03-11T18:04:01Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.75,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.93,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "health_7",
+    "category": "Health",
+    "source": "AOL",
+    "instruction": "Summarize this news headline: Scientists Find Sneaky Factor Impacts Brain Health, Increases Alzheimer’s Risk - AOL.com",
+    "headline": "Scientists Find Sneaky Factor Impacts Brain Health, Increases Alzheimer’s Risk - AOL.com",
+    "summary": "Scientists have identified a previously unknown factor that affects brain health and increases the risk of Alzheimer's disease. This factor is linked to various lifestyle elements that influence overall health, including heart disease risk. Further research is needed to fully understand the relationship between this factor and Alzheimer's disease, as the current study suggests a correlation but does not provide a direct cause.",
+    "url": "https://www.aol.com/articles/scientists-sneaky-factor-impacts-brain-123000620.html",
+    "published_at": "2026-03-11T17:40:55Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.75,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.93,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "health_8",
+    "category": "Health",
+    "source": "Health.com",
+    "instruction": "Summarize this news headline: 4 Supplements That Don’t Mix Well With Vitamin D - Health: Trusted and Empathetic Health and Wellness Information",
+    "headline": "4 Supplements That Don’t Mix Well With Vitamin D - Health: Trusted and Empathetic Health and Wellness Information",
+    "summary": "Researchers have identified four supplements that do not mix well with vitamin D, potentially affecting its absorption and effectiveness: calcium, iron, magnesium, and copper. Taking high doses of these supplements simultaneously with vitamin D may hinder its metabolism and reduce its benefits. Individuals taking vitamin D supplements should consult with their healthcare provider to determine the best supplement combinations and avoid potential interactions.",
+    "url": "https://www.health.com/supplements-to-avoid-with-vitamin-d-11923886",
+    "published_at": "2026-03-11T17:23:25Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.6,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.88,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "health_9",
+    "category": "Health",
+    "source": "Nature.com",
+    "instruction": "Summarize this news headline: Ageing promotes metastasis via activation of the integrated stress response - Nature",
+    "headline": "Ageing promotes metastasis via activation of the integrated stress response - Nature",
+    "summary": "Scientists have conducted a study on mice to investigate the link between aging and cancer metastasis. The research found that as mice age, their bodies activate the integrated stress response, which promotes the spread of cancer cells, specifically in the induction of lung tumors. These findings suggest a potential mechanism by which aging contributes to cancer progression.",
+    "url": "https://www.nature.com/articles/s41586-026-10216-0",
+    "published_at": "2026-03-11T16:57:16Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.45,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.77,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "health_10",
+    "category": "Health",
+    "source": "WDIV ClickOnDetroit",
+    "instruction": "Summarize this news headline: Measles case confirmed in Washtenaw County -- Here’s a list of exposure sites - ClickOnDetroit | WDIV Local 4",
+    "headline": "Measles case confirmed in Washtenaw County -- Here’s a list of exposure sites - ClickOnDetroit | WDIV Local 4",
+    "summary": "A case of measles has been confirmed in Washtenaw County, Michigan, prompting public health officials to notify individuals who may have been exposed to the virus at multiple locations. Those potentially exposed are advised to take precautions and consult with healthcare providers if necessary. The health department is releasing a list of specific exposure sites to assist in contact tracing and prevention efforts.",
+    "url": "https://www.clickondetroit.com/news/local/2026/03/11/measles-case-confirmed-in-washtenaw-county-heres-a-list-of-exposure-sites/",
+    "published_at": "2026-03-11T16:41:41Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.66,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.9,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "entertainment_1",
+    "category": "Entertainment",
+    "source": "TMZ",
+    "instruction": "Summarize this news headline: Jack Osbourne Names Newborn Baby Girl After Ozzy - TMZ",
+    "headline": "Jack Osbourne Names Newborn Baby Girl After Ozzy - TMZ",
+    "summary": "Jack Osbourne has given his newborn baby girl the name Ozzy Matilda Osbourne, paying tribute to his late father. A video posted on Instagram shows the child's full name, with her middle name being Matilda. This gesture is a heartfelt dedication to Ozzy Osbourne, the legendary musician and Jack's father.",
+    "url": "https://www.tmz.com/2026/03/11/jack-osbourne-names-newborn-baby-girl-ozzy/",
+    "published_at": "2026-03-12T01:13:02Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.9,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.91,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "entertainment_2",
+    "category": "Entertainment",
+    "source": "TechCrunch",
+    "instruction": "Summarize this news headline: AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard - TechCrunch",
+    "headline": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard - TechCrunch",
+    "summary": "Particle6 has introduced an AI-generated actor named Tilly Norwood, however the innovation has received a skeptical response from some in the entertainment industry. Emily Blunt, a Golden Globe winner, was one of those expressing concern, stating that the development is potentially worrisome. The release of Tilly Norwood has sparked further debate about the role of artificial intelligence in the film industry.",
+    "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+    "published_at": "2026-03-11T23:35:03Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.23,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.77,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "entertainment_3",
+    "category": "Entertainment",
+    "source": "TMZ",
+    "instruction": "Summarize this news headline: '90 Day Fiancé' Stars Eric Rosenbrook, Leida Undecided on Another Child After Baby's Death - TMZ",
+    "headline": "'90 Day Fiancé' Stars Eric Rosenbrook, Leida Undecided on Another Child After Baby's Death - TMZ",
+    "summary": "\"90 Day Fiancé\" stars Eric Rosenbrook and Leida Margaretha are taking time to cope with the loss of their baby daughter, choosing not to rush into any major family decisions. The couple is currently focusing on processing their emotions one day at a time. Their future family plans remain uncertain as they navigate their grief.",
+    "url": "https://www.tmz.com/2026/03/11/eric-rosenbrook-not-sure-about-having-more-kids-after-child-death/",
+    "published_at": "2026-03-11T23:29:02Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.4,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.76,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "entertainment_4",
+    "category": "Entertainment",
+    "source": "Hollywood Reporter",
+    "instruction": "Summarize this news headline: Lady Gaga Memory Test, Cocaine-Fueled Affair With Martin Scorsese Among Liza Minnelli Memoir Shockers - The Hollywood Reporter",
+    "headline": "Lady Gaga Memory Test, Cocaine-Fueled Affair With Martin Scorsese Among Liza Minnelli Memoir Shockers - The Hollywood Reporter",
+    "summary": "Liza Minnelli will release her long-awaited memoir, \"Kids, Wait Til You Hear This!\", on the day before her 80th birthday. The book reportedly includes shocking revelations, including details of her alleged affair with director Martin Scorsese and her experiences with Lady Gaga, who has undergone a memory test. Minnelli's memoir promises to offer an unfiltered look at her life in the entertainment industry.",
+    "url": "http://www.hollywoodreporter.com/movies/movie-features/liza-minnelli-lady-gaga-memory-test-cocaine-affair-scorsese-1236528072/",
+    "published_at": "2026-03-11T23:08:54Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.75,
+      "completeness": 1.0,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.93,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "entertainment_5",
+    "category": "Entertainment",
+    "source": "TMZ",
+    "instruction": "Summarize this news headline: 'Diesel Brothers' Star David Sparks' Wife Files For Divorce - TMZ",
+    "headline": "'Diesel Brothers' Star David Sparks' Wife Files For Divorce - TMZ",
+    "summary": "David \"Heavy D\" Sparks, a star of the reality TV show \"Diesel Brothers,\" is going through a divorce. His wife, Ashley Sparks, has filed for divorce in a Utah court. Details of the divorce proceedings have not been made public at this time.",
+    "url": "https://www.tmz.com/2026/03/11/david-sparks-wife-files-divorce/",
+    "published_at": "2026-03-11T22:11:13Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.45,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.77,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "entertainment_6",
+    "category": "Entertainment",
+    "source": "NPR",
+    "instruction": "Summarize this news headline: Rebecca Gayheart Dane on caring for her late husband, Eric Dane, and synthetic voices - NPR",
+    "headline": "Rebecca Gayheart Dane on caring for her late husband, Eric Dane, and synthetic voices - NPR",
+    "summary": "Actor Eric Dane, known for his role in Grey's Anatomy, recently passed away at the age of 53. He had been diagnosed with ALS in April last year and publicized his condition to raise awareness about the disease.",
+    "url": "https://www.npr.org/2026/03/11/nx-s1-5742420/rebecca-gayheart-dane-eric-dane",
+    "published_at": "2026-03-11T21:30:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.23,
+      "completeness": 0.4,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.62,
+    "quality_flag": "LOW"
+  },
+  {
+    "id": "entertainment_7",
+    "category": "Entertainment",
+    "source": "Boxoffice Pro",
+    "instruction": "Summarize this news headline: Weekend Preview: HOPPERS to Stay Put at #1 - Boxoffice Pro",
+    "headline": "Weekend Preview: HOPPERS to Stay Put at #1 - Boxoffice Pro",
+    "summary": "The upcoming weekend is expected to see no change at the top of the box office charts, with \"HOPPERS\" holding onto its number one position. Details of the movie's performance and its competition were provided in a report by Boxoffice Pro. The full update is available to subscribers of their free email newsletter.",
+    "url": "https://www.boxofficepro.com/weekend-preview-hoppers-to-stay-put-at-1/",
+    "published_at": "2026-03-11T20:54:21Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.33,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.74,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "entertainment_8",
+    "category": "Entertainment",
+    "source": "Eonline.com",
+    "instruction": "Summarize this news headline: \"Stoked\" Machine Gun Kelly Has Cheeky Reaction to Ex Megan Fox's Steamy Pics - E! News",
+    "headline": "\"Stoked\" Machine Gun Kelly Has Cheeky Reaction to Ex Megan Fox's Steamy Pics - E! News",
+    "summary": "Machine Gun Kelly made a lighthearted comment on a set of racy photos taken by his ex-fiancée Megan Fox. This development follows a recent trend of the rapper showing no apparent animosity towards his ex, despite the two reportedly going their separate ways. The NSFW photos are a recent addition to Fox's social media presence.",
+    "url": "https://www.eonline.com/news/1429591/mgk-on-megan-fox-racy-instagram-pics-stoked-they-welcomed-baby",
+    "published_at": "2026-03-11T20:46:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.54,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.8,
+    "quality_flag": "GOOD"
+  },
+  {
+    "id": "entertainment_9",
+    "category": "Entertainment",
+    "source": "Deadline",
+    "instruction": "Summarize this news headline: SXSW 2026 Movie Preview & Hot List - Deadline",
+    "headline": "SXSW 2026 Movie Preview & Hot List - Deadline",
+    "summary": "The 40th edition of SXSW 2026 will feature a lineup of notable talent, including multiple-time attendees such as Steven Spielberg and Jane Fonda. This year marks Spielberg's second appearance at the festival, after a 2018 tribute. The event will provide a platform for emerging and established artists to showcase their work.",
+    "url": "http://deadline.com/2026/03/sxsw-movie-preview-hot-list-1236749645/",
+    "published_at": "2026-03-11T19:51:00Z",
+    "scores": {
+      "fluency": 1.0,
+      "relevance": 0.33,
+      "completeness": 0.75,
+      "conciseness": 1.0,
+      "diversity": 1.0
+    },
+    "overall_score": 0.74,
+    "quality_flag": "GOOD"
+  }
+]

@@ -1,0 +1,13 @@
+NEWSDIGEST QUALITY REPORT
+=======================================================
+
+Total: 46  Good: 45  Low: 1  Avg: 0.85
+
+PER CATEGORY
+----------------------------------------
+Sports               Avg: 0.85  Good: 7/7
+Technology           Avg: 0.88  Good: 7/7
+Entertainment        Avg: 0.78  Good: 8/9
+Business             Avg: 0.88  Good: 6/6
+Health               Avg: 0.84  Good: 9/9
+Science              Avg: 0.88  Good: 8/8
